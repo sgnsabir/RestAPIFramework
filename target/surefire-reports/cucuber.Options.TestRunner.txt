@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cucuber.Options.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.078 s -- in cucuber.Options.TestRunner
