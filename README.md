@@ -1,2 +1,6 @@
-<h1>RestAPIFramework</h1><br>
-This Project is for demonstrating RestAPI framework development, around 90% framework developement done, now optimizing the framework and updating with more end to end features with scenarios.
+<h1>RestAPIFramework using RestAssured</h1><br>
+Common Features:
+<li>Robust Framework</li>
+<li>Demonstrating End to End testing using POJO Deserialization and Serialization</li>
+<li>Cucumber BDD API Framework</li>
+
